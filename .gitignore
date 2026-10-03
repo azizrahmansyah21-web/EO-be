@@ -43,3 +43,6 @@ Thumbs.db
 /.nova
 /.zed
 .phpactor.json
+
+# Ignore Markdown files
+*.md
